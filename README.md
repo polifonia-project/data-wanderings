@@ -1,3 +1,22 @@
+---
+component-id: data-wanderings
+type: Software
+name: Polifonia Data Wanderings
+description: Source code of the Polifonia Data Wanderings Art Installation
+work-package: 
+- WP1
+project: polifonia-project
+resource: 
+demo:
+licence:
+contributors:
+- Alex Piacentini <https://alexpiacentini.com>
+- Filippo Rosati
+- Andrea Poltronieri
+- Jacopo de Berardinis  
+- Federica Patti  
+---
+
 # Data Wanderings
 
 Data Wanderings is an audiovisual installation created as part of Polifonia, a research project funded by the Europe Horizon 2020 program.
