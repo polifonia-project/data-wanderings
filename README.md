@@ -7,7 +7,7 @@ work-package:
 - WP1
 - WP6
 licence:
-   CC-BY_v4
+- CC-BY_v4
 project: polifonia-project
 contributors:
 - Alex Piacentini <https://alexpiacentini.com>
