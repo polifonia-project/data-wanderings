@@ -5,10 +5,8 @@ name: Polifonia Data Wanderings
 description: Source code of the Polifonia Data Wanderings Art Installation
 work-package: 
 - WP1
+- WP6
 project: polifonia-project
-resource: 
-demo:
-licence:
 contributors:
 - Alex Piacentini <https://alexpiacentini.com>
 - Filippo Rosati
