@@ -6,6 +6,8 @@ description: Source code of the Polifonia Data Wanderings Art Installation
 work-package: 
 - WP1
 - WP6
+licence:
+   CC-BY_v4
 project: polifonia-project
 contributors:
 - Alex Piacentini <https://alexpiacentini.com>
